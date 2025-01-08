@@ -7,38 +7,17 @@
 <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2C9ACA&center=true&vCenter=true&width=435&lines=Software+engineer;Full-stack+developper" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball">
-  <details>
-    <summary>
-      <strong style="
-        display: inline-block;
-        font-size: 1.2em;
-        background: linear-gradient(to right, #6dd5ed, #2193b0);
-        color: white;
-        padding: 5px 10px;
-        border-radius: 5px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        font-family: 'Comic Sans MS', cursive, sans-serif;
-        text-transform: uppercase;
-      ">
-        ✨ Click here to discover my profile ✨
-      </strong>
-    </summary>
-<div>
 
 ## About Me:
-<div align="left">
 <ul >
   <li>👨‍💻 I’m currently working as a Full-Stack developer.</li>
   <li>🚀 I specialize in building scalable web applications and APIs.</li>
   <li>💡 I’m passionate about learning new technologies and solving challenging problems.</li>
   <li>🎓 I'm a Software Engineer (Graduated since 2015).</li>
 </ul>
-</div>
 
 ## Favorite Tools:
-<table style="width: 100%; text-align: center;">
+<table style="width: 100%;">
   <thead>
     <th><h4>Back-End</h4></th>
     <th><h4>Front-End</h4></th>
@@ -73,8 +52,3 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/karimgl/count.svg)
 
-</div>
-</details>
-<img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball">
-
-</div>
